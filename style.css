@@ -67,11 +67,9 @@ nav ul li a {
     text-decoration: none;
 }
 
-
-
-
-
-
+.active{
+    background-color: #222222;
+}
 
 
 .banner{
